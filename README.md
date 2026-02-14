@@ -77,7 +77,7 @@ This GitHub repository does not contain the executable source code.
 
 Availability:
 https://redispatchengine.com  
-https://redispatch.gumroad.com
+https://redispatch.gumroad.com/l/zlktpt
 
 ---
 
