@@ -76,6 +76,7 @@ The full software package (source code, examples, documentation, and reference i
 This GitHub repository does not contain the executable source code.
 
 Availability:
+
 https://redispatchengine.com  
 https://redispatch.gumroad.com/l/zlktpt
 
